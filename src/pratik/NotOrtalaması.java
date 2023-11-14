@@ -7,7 +7,7 @@ public class NotOrtalaması {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
 
-        double matOrt, turkOrt, fizOrt, kimOrt, tarOrt, muzOrt;
+
 
         List<String> dersler = new ArrayList<>(Arrays.asList("Matematik", "Fizik", "Kimya", "Türkçe", "Tarih", "Müzik"));
         List<Double> sınavNotu1 = new ArrayList<>();
